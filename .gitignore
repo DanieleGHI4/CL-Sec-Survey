@@ -1,5 +1,5 @@
 # Original scientific papers
-literature/
+literature/**/*.pdf
 
 # LaTeX generated files
 *.aux
